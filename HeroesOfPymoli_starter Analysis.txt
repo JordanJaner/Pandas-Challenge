@@ -1,0 +1,5 @@
+Trend 1: The first trend observed is how the ages of players who play the game continues to increase up to ages 20-24 and then decreases there after.
+
+Trend 2: The top spenders on the game do not purchase past 5 items.
+
+Trend 3: The ages of 20-24 have a significantly higher total purchase value than the rest of the age groups.
